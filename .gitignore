@@ -1,0 +1,33 @@
+# === Delphi Build-Artefakte ===
+Win32/
+Win64/
+__history/
+__recovery/
+*.dcu
+*.identcache
+*.local
+*.~*
+*.stat
+*.tvsconfig
+
+# === Backups / entfernte Dateien aus der Entwicklung ===
+*.bak-m0
+*.bak-m1
+_removed_m1/
+
+# === Generierte Exporte / nutzerspezifische Turnierdaten ===
+*.pdf
+*.trn
+*.html
+
+# === Nicht für die Veröffentlichung (Desktop-Screenshots / Alt-Bilder) ===
+Ansicht.png
+AnsichtDruck.png
+Ergeb.png
+Bildsechs.png
+BildGesamt.png
+HTV512Icon192.png
+
+# === Fremd-Logos (nur zum Testen des Veranstalter-Icons verwendet) ===
+logogw.png
+logogwkl.png
