@@ -1,0 +1,121 @@
+[Tournament]
+Organizer=Stadtmeisterschaft
+OrganizerIcon=C:\Anwendungen\RwFtv\logogwkl.png
+[Matches]
+Count=7
+[Teams]
+Count=12
+[Team_1]
+Name=Adler Buldern
+Group=A
+[Team_2]
+Name=Djk Dülmen
+Group=A
+[Team_3]
+Name=SF Merfeld
+Group=A
+[Team_4]
+Name=Brukt. Rorup
+Group=A
+[Team_5]
+Name=TSG Dülmen
+Group=A
+[Team_6]
+Name=Vorw. Hiddingsel
+Group=A
+[Team_7]
+Name=VfL Billerbeck
+Group=B
+[Team_8]
+Name=SW Havixbeck
+Group=B
+[Team_9]
+Name=GW Nottuln
+Group=B
+[Team_10]
+Name=Bor. Darup
+Group=B
+[Team_11]
+Name=SG Coesfeld 06
+Group=B
+[Team_12]
+Name=Fsv Gescher
+Group=B
+[Match_0]
+Team1=SF Merfeld
+Team2=Brukt. Rorup
+Goals1=2
+Goals2=1
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[Match_1]
+Team1=Adler Buldern
+Team2=Vorw. Hiddingsel
+Goals1=0
+Goals2=3
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[Match_2]
+Team1=SW Havixbeck
+Team2=VfL Billerbeck
+Goals1=4
+Goals2=2
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[Match_3]
+Team1=Fsv Gescher
+Team2=GW Nottuln
+Goals1=3
+Goals2=1
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[Match_4]
+Team1=Djk Dülmen
+Team2=TSG Dülmen
+Goals1=1
+Goals2=5
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[Match_5]
+Team1=GW Nottuln
+Team2=Bor. Darup
+Goals1=2
+Goals2=6
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[Match_6]
+Team1=SG Coesfeld 06
+Team2=SW Havixbeck
+Goals1=2
+Goals2=2
+Phase=0
+Pen1=0
+Pen2=0
+Played=1
+[KO_1]
+Team1=SW Havixbeck
+Team2=Adler Buldern
+Goals1=1
+Goals2=3
+[KO_2]
+Team1=Bor. Darup
+Team2=SF Merfeld
+Goals1=2
+Goals2=1
+[KO_3]
+Team1=
+Team2=
+Goals1=0
+Goals2=0
